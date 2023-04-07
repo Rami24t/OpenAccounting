@@ -2,6 +2,9 @@
 
 Swift Ledger Accounting is a comprehensive accounting application built using the MERN stack (MongoDB, Express, React, Node.js). It includes a variety of accounting features and functionalities.
 
+<div style="position: relative; overflow: hidden; padding-top: 56.25%;"><iframe src="https://share.synthesia.io/embeds/videos/1d536999-287b-475e-bff2-7dd7a7e7045d" loading="lazy" title="Synthesia video player - Your AI video" allow="encrypted-media; fullscreen;" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0; overflow:hidden;"></iframe></div>
+
+
 ## Features
 
 - Customizable dashboard with overview of key financial data
