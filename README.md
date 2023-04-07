@@ -6,13 +6,10 @@ Swift Ledger Accounting is a comprehensive accounting application built using th
 
 
 
- https://synthesia-ttv-data.s3-eu-west-1.amazonaws.com/video_data/1d536999-287b-475e-bff2-7dd7a7e7045d/transfers/target_transfer.mp4
+[//]: <> (https://synthesia-ttv-data.s3-eu-west-1.amazonaws.com/video_data/1d536999-287b-475e-bff2-7dd7a7e7045d/transfers/target_transfer.mp4)
 
 
-
-
-  https://synthesia-ttv-data.s3.amazonaws.com/video_data/1d536999-287b-475e-bff2-7dd7a7e7045d/transfers/target_transfer.mp4
-
+![](https://synthesia-ttv-data.s3.amazonaws.com/video_data/1d536999-287b-475e-bff2-7dd7a7e7045d/transfers/target_transfer.mp4)
 
 
 
