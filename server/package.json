@@ -1,0 +1,14 @@
+{
+  "name": "swift-ledger-accounting-server",
+  "version": "1.0.0",
+  "description": "the express based server for the swift ledger accounting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rami al-saadi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
